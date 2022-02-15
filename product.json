@@ -1,0 +1,147 @@
+[
+ {
+    "ID":78656,
+    "designation":"Dsp hand mixer",
+    "prix":39,
+    "categorie":"Equipement du cuisine",
+    "disponible":[
+       "tanger",
+       "taroudant",
+       "rabat",
+       "Asfi"
+    ],
+    "fournisseur":{
+       "Raison_Sociale":"Top regalo",
+       "Adresse":"avenue lharouiyin,kenitra"
+    }
+ },
+ {
+    "ID":70118,
+    "designation":"Eyebrow shaver",
+    "prix":115,
+    "categorie":"Cosmetique",
+    "disponible":[
+       "assila",
+       "tetouan",
+       "ouejda",
+       "meknes"
+    ],
+    "fournisseur":{
+       "Raison_Sociale":"Cosmet shop",
+       "Adresse":"avenue hadad,rabat"
+    }
+ },
+ {
+    "ID":10028,
+    "designation":"Coral red",
+    "prix":125,
+    "categorie":"Beaute",
+    "disponible":[
+       "dakhla",
+       "agadir",
+       "jaddida",
+       "casablanca"
+    ],
+    "fournisseur":{
+       "Raison_Sociale":"Beauty boot",
+       "Adresse":"avenue chamali,essaouira"
+    }
+ },
+ {
+    "ID":50005,
+    "designation":"Termo inox",
+    "prix":106,
+    "categorie":"Equipement de cuisine",
+    "disponible":[
+       "ifrane",
+       "fes",
+       "mekenes",
+       "ouelmes"
+    ],
+    "fournisseur":{
+       "Raison_Sociale":"Termoster",
+       "Adresse":"avenue modaghin,fes"
+    }
+ },
+ {
+    "ID":30890,
+    "designation":"Espresso machine",
+    "prix":450,
+    "categorie":"Equipement de cuisine",
+    "disponible":[
+       "laarache",
+       "assila",
+       "tanger",
+       "casablanca"
+    ],
+    "fournisseur":{
+       "Raison_Sociale":"Coffee sarl",
+       "Adresse":"avenue hrarech,tanger"
+    }
+ },
+ {
+    "ID":49302,
+    "designation":"Bougie aromatic",
+    "prix":25,
+    "categorie":"Bien-être",
+    "disponible":[
+       "asfi",
+       "chefchaouen",
+       "tetouan",
+       "rabat"
+    ],
+    "fournisseur":{
+       "Raison_Sociale":"Aromatisme sarl",
+       "Adresse":"avenue derien,meknes"
+    }
+ },
+ {
+    "ID":85943,
+    "designation":"Samsung s8+",
+    "prix":3369,
+    "categorie":"Telephone et portable",
+    "disponible":[
+       "arfoud",
+       "laayoune",
+       "lagouira",
+       "agadir"
+    ],
+    "fournisseur":{
+       "Raison_Sociale":"Samsung",
+       "Adresse":"avenue temlali,casablanca"
+    }
+ },
+ {
+    "ID":98632,
+    "designation":"Placard",
+    "prix":799,
+    "categorie":"Equipement immobilier",
+    "disponible":[
+       "bni mellal",
+       "azrou",
+       "tifaouine",
+       "azenti"
+    ],
+    "fournisseur":{
+       "Raison_Sociale":"Societe sefrioui",
+       "Adresse":"avenue tamerti,sefrou"
+    }
+ },
+ {
+    "ID":43201,
+    "designation":"Casque bluetooth",
+    "prix":985,
+    "categorie":"Accessoires audio",
+    "disponible":[
+       "taroudant",
+
+       "rabat",
+       "tanger",
+       "laarache"
+    ],
+    "fournisseur":{
+       "Raison_Sociale":"Audio-m",
+       "Adresse":"avenue dobat,laarache"
+    }
+ }
+]
